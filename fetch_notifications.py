@@ -3,8 +3,6 @@
 # import time
 
 # # Replace 'YOUR_ACCESS_TOKEN' with your Pushbullet API Key
-# ACCESS_TOKEN = 'o.0MKEmwVJdvrzgwIdc4JkEeF7rMiKuaeC'
-# URL_PUSHES = 'https://api.pushbullet.com/v2/pushes'
 
 # def get_notifications():
 #     headers = {
